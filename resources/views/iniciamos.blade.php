@@ -19,6 +19,7 @@
                 font-family: 'Nunito';
                 font-size: 30px;
                 text-align: left;
+                background: whitesmoke;
 
             }
         </style>
